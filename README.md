@@ -4,7 +4,8 @@
 
 ## 概要
 
-- ｘｘｘ
+- animation(slide&zoomout)
+- `css`のみで実装(`swiper@8`で実装してみたが、`animation: slide-img 30s;`が切れた時の画像の挙動が嫌で`css`で実装。)
 - https://www.notion.so/000_web-component-index-c4b399010bf342e9b4e2ed516cf9c730
 
 ## 仕様
@@ -33,16 +34,20 @@
 
 ## portfolio url:
 
-- https://c-0000.wtb.cfbx.jp/
-- https://css-md-0000.wtb.cfbx.jp/
+- https://c-0059.wtb.cfbx.jp/
 
 ## 参考にしたサイト
 
-- xxx
+- animation(slide&zoomout)
+- https://www.esz.co.jp/blog/185.html
+- 【保存版】CSS アニメーションの種類・使い方・サンプル
+- https://www.otwo.jp/blog/css_animation/
+- 【CSS】animation プロパティの使い方解説！（アニメーション基礎）
+- https://crestadesign.org/css-animation/
 
 ## 更新履歴
 
-- 2022/mm/dd 初版 作成完了
+- 2022/4/19 animation(slide&zoomout) 作成完了
 
 ## 環境・使い方
 
