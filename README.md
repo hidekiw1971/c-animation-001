@@ -1,11 +1,14 @@
 # compornent（共通部品）
 
 ## イメージ画像
+<img width="393" alt="image" src="https://user-images.githubusercontent.com/99580997/164038155-59b4b7e8-5257-4a96-bbef-daca967e5fba.png">
+
 
 ## 概要
 
 - animation(slide&zoomout)
 - `css`のみで実装(`swiper@8`で実装してみたが、`animation: slide-img 30s;`が切れた時の画像の挙動が嫌で`css`で実装。)
+- レスポンシブ対応済
 - https://www.notion.so/000_web-component-index-c4b399010bf342e9b4e2ed516cf9c730
 
 ## 仕様
@@ -27,10 +30,14 @@
 ## w3c html チェック結果
 
 - https://validator.w3.org/nu/
+- <img width="745" alt="image" src="https://user-images.githubusercontent.com/99580997/164038269-b955cd19-3a41-4472-b7a5-7aea506591f3.png">
+
 
 ## w3c css チェック結果
 
 - https://jigsaw.w3.org/css-validator/
+- <img width="842" alt="image" src="https://user-images.githubusercontent.com/99580997/164038323-af03f09a-6a4c-4600-8419-5006ddabb038.png">
+
 
 ## portfolio url:
 
